@@ -1,0 +1,3 @@
+{"endpoint": "127.0.0.1:1234", "id": 4, "identifiers": ["license:f54983771272864f41a492c7b7867a2e99272f0e", "discord:614884971605131267", "fivem:3559088", "license2:f54983771272864f41a492c7b7867a2e99272f0e"], "name": "Joe_mama", "ping": 65}
+{"endpoint": "127.0.0.1:1234", "id": 2, "identifiers": ["license:f8079a400351c98a4420b413bc8337458b25fd96", "discord:1207787059633328188", "fivem:7486533", "license2:f8079a400351c98a4420b413bc8337458b25fd96"], "name": "Marque", "ping": 57}
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["license:7ca9f5301bb793a47ac9cbc2343b11d9fdc4745d", "xbl:2535413775724778", "live:985155236110528", "discord:519949958020071424", "fivem:7917687", "license2:7ca9f5301bb793a47ac9cbc2343b11d9fdc4745d"], "name": "[R-L] SNIALEX", "ping": 64}

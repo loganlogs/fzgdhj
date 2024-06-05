@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 4, "identifiers": ["steam:11000014063d39e", "license:1988375bcca18435ec3fa74881709145e5cae5c9", "discord:1201619261278404659", "license2:1988375bcca18435ec3fa74881709145e5cae5c9"], "name": "Alex SNOW", "ping": 92}

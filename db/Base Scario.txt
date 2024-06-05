@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 2, "identifiers": ["steam:110000145435011", "license:f34a116efe3cdc027398f6c2fadcf107b6064ccd", "live:985154707912919", "discord:985133071999311923", "fivem:4356466", "license2:f34a116efe3cdc027398f6c2fadcf107b6064ccd"], "name": "R-L | Scario", "ping": 55}

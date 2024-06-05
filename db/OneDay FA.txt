@@ -1,0 +1,2 @@
+{"endpoint": "127.0.0.1:1234", "id": 2, "identifiers": ["steam:11000015f04bdad", "license:b5a4afae0e4cd29b2da2fdb8e1efa92e8a52cedc", "discord:1153360987253121054", "fivem:13420307", "license2:b5a4afae0e4cd29b2da2fdb8e1efa92e8a52cedc"], "name": "Floodss", "ping": 54}
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["license:5a965546972a116e0cc60d2d3570165e335e3ce4", "discord:1093635728140931134", "license2:5a965546972a116e0cc60d2d3570165e335e3ce4"], "name": "grego", "ping": 73}

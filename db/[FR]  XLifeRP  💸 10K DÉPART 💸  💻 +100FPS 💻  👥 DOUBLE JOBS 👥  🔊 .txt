@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["license:283bc3f1c1a7ddcdc971e8fd7d15ef029ca67c2c", "discord:860227538688016398", "fivem:1142336", "license2:283bc3f1c1a7ddcdc971e8fd7d15ef029ca67c2c"], "name": "Deni melikov", "ping": 32}

@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["license:e319caea2a549f9a2aad076bdef0a427237dfe75", "xbl:2535459652947949", "live:985157500298894", "discord:219429132784631809", "fivem:2475545", "license2:e319caea2a549f9a2aad076bdef0a427237dfe75"], "name": "Floop", "ping": 57}

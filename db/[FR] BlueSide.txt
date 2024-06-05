@@ -1,0 +1,2 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["steam:110000113841c72", "license:4e14db3adea90a5bfa5e4c7bfb5a3b235c500834", "fivem:529148", "license2:4e14db3adea90a5bfa5e4c7bfb5a3b235c500834"], "name": "twitch.tv/r00tkit404", "ping": 130}
+{"endpoint": "127.0.0.1:1234", "id": 5, "identifiers": ["license:9a3aa6919dd300e95dd77c22745cfdb3124b4317", "fivem:13426752", "license2:9a3aa6919dd300e95dd77c22745cfdb3124b4317"], "name": "Minerlium", "ping": 106}

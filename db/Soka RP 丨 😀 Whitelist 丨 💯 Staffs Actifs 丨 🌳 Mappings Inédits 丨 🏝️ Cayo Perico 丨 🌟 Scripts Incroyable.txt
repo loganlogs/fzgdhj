@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["steam:11000010c12b47a", "license:240bb346cfaf704c1b8ed3fe99e207184d53cff1", "xbl:2535417587783975", "live:1055518777354773", "discord:689398669304266797", "fivem:2289815", "license2:240bb346cfaf704c1b8ed3fe99e207184d53cff1"], "name": "Vingt_et_Un", "ping": 27}

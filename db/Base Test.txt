@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["steam:11000015c684677", "license:c770ded4fa96a1d323e9d9498914a8aedebb7dd6", "discord:1006637982079524965", "fivem:6039021", "license2:c770ded4fa96a1d323e9d9498914a8aedebb7dd6"], "name": "yeager", "ping": 48}

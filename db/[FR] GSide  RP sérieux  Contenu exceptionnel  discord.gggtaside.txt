@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["steam:11000014175df92", "license:898a01e85d7aa4c2b8b4f93738e893c5b5b91a85", "xbl:2535464845445430", "live:1055518446739793", "discord:1171503180941631498", "fivem:2213565", "license2:898a01e85d7aa4c2b8b4f93738e893c5b5b91a85"], "name": "BRS", "ping": 13}

@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["license:d62512f3c6cc527de718784c13739e6087dc942c", "discord:1198269620432404616", "fivem:2735840", "license2:6781b90449aee32d4a9128f0126227527b12350f"], "name": "Clément Leroy", "ping": 24}

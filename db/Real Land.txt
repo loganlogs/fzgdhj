@@ -1,0 +1,2 @@
+{"endpoint": "127.0.0.1:1234", "id": 2, "identifiers": ["steam:11000014a2a2e5e", "license:81f65a711def1f09e02c0daba4a59beef0a7b3ea", "discord:878728973851426817", "fivem:6136909", "license2:81f65a711def1f09e02c0daba4a59beef0a7b3ea"], "name": "Damon salvatore", "ping": 35}
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["license:44a131d62b193262e748bf42463a60d3c56af9da", "discord:940994036238544907", "license2:44a131d62b193262e748bf42463a60d3c56af9da"], "name": "z", "ping": 47}

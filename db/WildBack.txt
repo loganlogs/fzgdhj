@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["steam:110000103a49749", "license:ea9458942b0117cc08d74b1d032fc4924591bc70", "discord:1192167242813685849", "fivem:1195456", "license2:ea9458942b0117cc08d74b1d032fc4924591bc70"], "name": "Wave", "ping": 10}

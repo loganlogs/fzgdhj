@@ -1,0 +1,2 @@
+{"id": 0, "name": "Anon0", "ping": 0, "endpoint": "127.0.0.1:1234", "identifiers": []}
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["steam:11000014c76445a", "license:9431831fce9d66c09348ee03b8f64c281d31933b", "xbl:2535469187413566", "live:985155032904736", "discord:804820815584821297", "fivem:13494874", "license2:9431831fce9d66c09348ee03b8f64c281d31933b"], "name": "DEWE", "ping": 36}

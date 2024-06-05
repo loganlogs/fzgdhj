@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 7, "identifiers": ["steam:11000010f818883", "license:46a28c7c1c1db8b7ba075f35325e9ff0d2807fcb", "xbl:2535446714452786", "live:844428267301948", "discord:261513998942339073", "fivem:2414922", "license2:46a28c7c1c1db8b7ba075f35325e9ff0d2807fcb"], "name": "Maxence", "ping": 68}

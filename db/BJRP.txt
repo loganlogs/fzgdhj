@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["steam:11000013c0f685b", "license:c0d6d41ff997f2f2963921580576bc46ebe8d4da", "discord:1002193630590673057", "fivem:452584", "license2:95d45d05f6d66b4b07211a80d7652ee85bf9b23c"], "name": "BSTS", "ping": 56}

@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["steam:110000144f18ea9", "license:099ded56d2ed2a8649ad267ed80b978cd90ac8a5", "xbl:2535421481207405", "live:1055518884163728", "discord:626393198172045313", "license2:ba43f73dafa5894f84ee6abe0fbba6ec2e0e44af"], "name": "Zéphyr Stone - BCSO - 79", "ping": 32}

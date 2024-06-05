@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["steam:110000152d8ebdf", "license:47b22ebc244fc3cfd418fc3d0b2edd4102232812", "discord:790970552160223273", "fivem:7978521", "license2:47b22ebc244fc3cfd418fc3d0b2edd4102232812"], "name": "Pikachu", "ping": 14}

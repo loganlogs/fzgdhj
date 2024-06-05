@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["license:5ba5ee204c912988335c617e6468baf5fd7726d3", "xbl:2535437932615394", "live:1055519454209333", "discord:1041317570650837075", "fivem:13070750", "license2:5ba5ee204c912988335c617e6468baf5fd7726d3"], "name": "vadim", "ping": 81}

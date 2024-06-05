@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 1, "identifiers": ["license:5c59b5d2ddab4783733b50f3abd2ac6ed0808272", "xbl:2533274929516439", "live:2111055906483193", "discord:306816513086849025", "fivem:5969689", "license2:5c59b5d2ddab4783733b50f3abd2ac6ed0808272"], "name": "Martin", "ping": 61}
