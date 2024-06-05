@@ -1743,3 +1743,5 @@
 {"endpoint": "127.0.0.1:1234", "id": 1283, "identifiers": ["license:2e44893e48dffd1827ed37749166760c616c4122", "discord:694154020406951987", "fivem:5552118", "license2:2e44893e48dffd1827ed37749166760c616c4122"], "name": "Deleo", "ping": 39}
 {"endpoint": "127.0.0.1:1234", "id": 1287, "identifiers": ["license:ad31805db234f79b9b0710c6170afdb06e57640d", "live:844426744319200", "discord:1153783691219324949", "license2:39d68ebf1065c5e9ed8a2bdb674d23b723c1c9d9"], "name": "chekhabwahil", "ping": 54}
 {"endpoint": "127.0.0.1:1234", "id": 1295, "identifiers": ["license:318c4eb6e8486536ac805d340db766f218bfab44", "xbl:2535453366170600", "live:985154866681175", "discord:1125865075274698782", "fivem:7416168", "license2:37157ffc4db224346dbd991ae0aa8d5b70bc9aed"], "name": "T33zord", "ping": 64}
+{"endpoint": "127.0.0.1:1234", "id": 1053, "identifiers": [], "name": "slyn", "ping": 46}
+{"endpoint": "127.0.0.1:1234", "id": 952, "identifiers": [], "name": "kardesh", "ping": 30}
